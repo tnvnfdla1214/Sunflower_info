@@ -5,8 +5,6 @@
 ![image](https://user-images.githubusercontent.com/48902047/149451934-a5124d6d-f41f-4faf-8995-505a739b86ab.png)
 ## 프로젝트 패키지 구조
 ![image](https://user-images.githubusercontent.com/48902047/149452193-b1235a0b-66fc-4566-a7a1-fd8fdace1179.png)
-
-1. adapter
   
 ## res 구조
 ![image](https://user-images.githubusercontent.com/48902047/149452231-51f959e8-63b5-4deb-a03c-625d0c35c44c.png)
