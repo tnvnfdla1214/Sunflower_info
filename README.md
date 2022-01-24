@@ -1,7 +1,13 @@
 # Sunflower 프로젝트 패키지 구조
 
-## [Sunflower 프로젝트](https://github.com/android/sunflower)
+### [Sunflower 프로젝트](https://github.com/android/sunflower)
 
+### 목차
+- [Model](https://github.com/tnvnfdla1214/Sunflower_Model)
+- [ViewModel](https://github.com/tnvnfdla1214/Sunflower_ViewModel)
+- [View](https://github.com/tnvnfdla1214/Sunflower_View)
+- [Hilt](https://github.com/tnvnfdla1214/Sunflower_Hilt)
+- [Navigation](https://github.com/tnvnfdla1214/Sunflower_Navigation)
 ![image](https://user-images.githubusercontent.com/48902047/149451934-a5124d6d-f41f-4faf-8995-505a739b86ab.png)
 ## 프로젝트 패키지 구조
 ![image](https://user-images.githubusercontent.com/48902047/149452193-b1235a0b-66fc-4566-a7a1-fd8fdace1179.png)
